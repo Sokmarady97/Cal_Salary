@@ -19,9 +19,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  
+
   assets:
-    - assets/fonts/CustomFont.ttf  # Add this line to include the font file in the assets
+    - assets/fonts/CustomFont.ttf
 
   fonts:
     - family: CustomFont
