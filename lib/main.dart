@@ -11,7 +11,6 @@ class SalaryCalculatorApp extends StatelessWidget {
       title: 'Salary Calculator',
       theme: ThemeData(
         primarySwatch: Colors.blue,
-        fontFamily: 'CustomFont', // Set the custom font family here
       ),
       debugShowCheckedModeBanner: false,
       home: SalaryCalculatorScreen(),
