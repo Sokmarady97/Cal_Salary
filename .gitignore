@@ -41,3 +41,34 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter related
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+.idea/
+.vscode/
+build/
+ios/Pods/
+.DS_Store
+
+# Android related
+*.iml
+.gradle
+.idea/
+.classpath
+.project
+.settings/
+.metadata
+.firebase/
+android/key.properties
+
+# macOS related
+macos/Flutter/ephemeral/
+
+# Web related
+web/FlutterServiceWorker.js
+web/assets
+web/manifest.json
+
